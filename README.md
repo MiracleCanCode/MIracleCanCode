@@ -24,6 +24,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my spare time I solve LeetCode problems, read books and watch anime.
 - :telescope: I am 16 years old, I have been programming for a long time
 
+<div align="center">
+  <img src="https://media.giphy.com/media/CCiCwrKIvodowJBbtf/giphy.gif"/>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
