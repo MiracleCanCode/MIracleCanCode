@@ -1,6 +1,12 @@
 
 
-
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -8,14 +14,6 @@
     <a href="[https://t.me/IluF1g](https://vk.com/frontenddev14)">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-</div>
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 
