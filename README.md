@@ -9,3 +9,7 @@
 - 🌱 I’m currently learning Skillfactory
 - 📫 How to reach me: Telegram:https://t.me/IluF1g
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy-downsized-large.gif"/>
+</div>
