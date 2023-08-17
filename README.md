@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/MCFvryaWoM0q7sX8RK/giphy.gif" width="50px"/>
 </h1>
 <div align="center">
-  <img src="https://tenor.com/ru/view/baki-hanma-gif-27411299"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
