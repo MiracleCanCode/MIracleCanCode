@@ -2,7 +2,7 @@
 
 
 <div>
-  <img widht="100px" height="100px" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2909717762"/>
+  <img widht="100px" height="100px" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2909717762"/>
 </div>
 
 - 🔭 I’m currently working on Home
