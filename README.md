@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -35,6 +35,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 </div>
 
-### :fire: My Stats :
+### :fire: My Stat :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IluF1&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IluF1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
