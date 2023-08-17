@@ -11,8 +11,11 @@
   <a href="https://t.me/IluF1g">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-    <a href="[https://t.me/IluF1g](https://vk.com/frontenddev14)">
+    <a href="https://vk.com/frontenddev14">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white"/>
+  </a>
+      <a href="mailto:pashadurov12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
