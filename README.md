@@ -18,6 +18,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/CCiCwrKIvodowJBbtf/giphy.gif"/>
+</div>
+
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -35,7 +39,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/CCiCwrKIvodowJBbtf/giphy.gif"/>
 </div>
