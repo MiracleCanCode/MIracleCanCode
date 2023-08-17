@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img widht="50"src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy-downsized-large.gif"/>
+  <img widht="50"src="https://media.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif"/>
 </div>
 
 <div id="badges" align="center">
