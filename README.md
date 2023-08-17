@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align = "center">Hi!</p>
 
 
 <div id="header" align="center">
