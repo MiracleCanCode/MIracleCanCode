@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/MCFvryaWoM0q7sX8RK/giphy.gif" width="50px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif"/>
+  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
