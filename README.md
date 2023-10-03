@@ -2,10 +2,9 @@
 
 <h1 align="center">
   Hey There , im Ilya
-  <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width="50px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif"/>
+  <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
