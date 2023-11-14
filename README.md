@@ -4,7 +4,7 @@
   Hey There , im Ilya
 </h1>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif"/>
+  <img src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
