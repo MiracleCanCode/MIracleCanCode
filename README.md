@@ -4,7 +4,7 @@
   Hey There , im Iluf
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif"/>
+  <img src="https://media.giphy.com/media/QNQicbzT2pFUk/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/IluF1g">
