@@ -2,7 +2,7 @@
 ## I'm a young front-end programmer working as a freelancer.
 ### General
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=d60b0b)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
