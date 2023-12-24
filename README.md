@@ -22,5 +22,5 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=6f00ff)
 ![scss](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=ce05ed)
 ![tailwind](https://img.shields.io/badge/-Tailwindcss-090909?style=for-the-badge&logo=tailwindcss&logoColor=05deed)
-![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=6296CC)
-![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm&logoColor=d60b0b)
+![vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=6205ed)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=73bef0)
