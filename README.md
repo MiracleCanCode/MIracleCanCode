@@ -1,5 +1,5 @@
 [![Header](https://github.com/IluF1/IluF1/blob/main/assets/n1saro.png)](https://kwork.ru/user/n1saro)
-## I'm a young front-end programmer working as a freelancer.
+## Hey there, i'm a young front-end programmer working as a freelancer.
 ### General
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=d60b0b)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
