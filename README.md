@@ -9,3 +9,5 @@
 ![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=6296CC)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm&logoColor=d60b0b)
 
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=jest&logoColor=d60b0b)
