@@ -11,3 +11,6 @@
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=jest&logoColor=d60b0b)
+
+## Code quality
+![eslint](https://img.shields.io/badge/-Eslint-090909?style=for-the-badge&logo=eslint&logoColor=097CDB)
