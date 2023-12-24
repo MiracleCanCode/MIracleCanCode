@@ -14,3 +14,4 @@
 
 ## Code quality
 ![eslint](https://img.shields.io/badge/-Eslint-090909?style=for-the-badge&logo=eslint&logoColor=097CDB)
+![prettier](https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=prettier&logoColor=ffffff)
