@@ -26,4 +26,4 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=73bef0)
 
 ## My Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IluF1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IluF1&show_icons=true&theme=transparent)
