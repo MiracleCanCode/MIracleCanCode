@@ -24,3 +24,6 @@
 ![tailwind](https://img.shields.io/badge/-Tailwindcss-090909?style=for-the-badge&logo=tailwindcss&logoColor=05deed)
 ![vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=73bef0)
+
+## My Stat
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
