@@ -1,5 +1,5 @@
 
-## Hey there, i'm a young front-end programmer working as a freelancer.
+## Hey there, my name is nisaro
 ### General
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=d60b0b)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
