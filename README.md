@@ -1,5 +1,3 @@
-
-## Hey there, my name is nisaro
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=d60b0b)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
