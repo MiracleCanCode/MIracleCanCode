@@ -6,4 +6,4 @@
 ![React JS](https://img.shields.io/badge/-React_Js-090909?style=for-the-badge&logo=react&logoColor=00a6ff)
 ![NextJs](https://img.shields.io/badge/-Next_Js-090909?style=for-the-badge&logo=nextjs&logoColor=ffffff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IluF1&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IluF1&show_icons=true&theme=nightowl)
