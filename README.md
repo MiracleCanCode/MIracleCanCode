@@ -28,4 +28,5 @@
 <h3>Other:</h3>
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
 </p>
