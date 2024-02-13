@@ -25,3 +25,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-764ABC?style=flat-square&logo=eslint&logoColor=white" />
 </p>
+<h3>Other:</h3>
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=rust&logoColor=white" />
+</p>
