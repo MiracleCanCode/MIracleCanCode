@@ -1,6 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <p>Welcome to my page! </br> I'm Ilya, Frontend developer from <img src="https://www.flaticon.com/ru/free-icon/united-states_197484?related_id=197484" width="13"/> <b>USA</b>
 <h3>Frontend</h3>
 <p>
