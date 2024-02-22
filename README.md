@@ -13,7 +13,7 @@
 <br>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Programming and Frameworks, Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -25,14 +25,13 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
+
+
+  
+
 
 
 <hr>
