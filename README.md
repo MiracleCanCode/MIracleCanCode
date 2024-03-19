@@ -1,17 +1,3 @@
-<p align="left">
-  <a href="https://github.com/IluF1g/IluF1g">
-    <img src="https://komarev.com/ghpvc/?username=IluF1g" alt="page views" />
-  </a>
-  <a href="https://github.com/IluF1g?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IluF1g?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
-
-
 <h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -38,27 +24,3 @@
 </br>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  1975.4 hr  ┤                                                                            ╭────────────────────── 
-  1974.8 hr  ┤                                                                         ╭──╯                       
-  1974.1 hr  ┤                                                                        ╭╯                          
-  1973.5 hr  ┤                                                                       ╭╯                           
-  1972.8 hr  ┤                                                                 ╭─────╯                            
-  1972.2 hr  ┤                                                               ╭─╯                                  
-  1971.6 hr  ┤                                                               │                                    
-  1970.9 hr  ┤                                                              ╭╯                                    
-  1970.3 hr  ┤                                                              │                                     
-  1969.7 hr  ┤                                                             ╭╯                                     
-  1969.0 hr  ┤                                                            ╭╯                                      
-  1968.4 hr  ┤                                                           ╭╯                                       
-  1967.8 hr  ┼───────────────────────────────────────────────────────────╯                                        
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
