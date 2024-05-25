@@ -11,5 +11,5 @@
   <img alt="aiogram" src="https://img.shields.io/badge/-Aiogram-43853d?style=flat-square&logo=aiogram&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-43853d?style=flat-square&logo=mobx&logoColor=white" />
+   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-FF9B00?style=flat-square&logo=mobx&logoColor=white" />
 </p>
