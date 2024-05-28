@@ -21,7 +21,7 @@ At the same time, I upload videos on YouTube and teach students programming.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=mobx,redux,reactjs,py,javascript,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=typescript,py,javascript,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
