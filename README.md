@@ -17,21 +17,20 @@ At the same time, I upload videos on YouTube and teach students programming.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
 
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=typescript,py,javascript,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react,redux,mobX,linux,styledcomponents,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwindcss,linux,styledcomponents,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
     <br>
   </p>
-</details>
 
 
-<details align="left">
+
+
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
@@ -40,4 +39,4 @@ At the same time, I upload videos on YouTube and teach students programming.
     <br>
    <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
-</details>
+
