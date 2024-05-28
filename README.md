@@ -2,8 +2,6 @@
 
 
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IluF1&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
 
 
   <summary><h2><b>📚 My stack</b></h2></summary>
