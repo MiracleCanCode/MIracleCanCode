@@ -22,9 +22,9 @@ At the same time, I upload videos on YouTube and teach students programming.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=typescript,py,javascript,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwindcss,linux,styledcomponents,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,linux,styledcomponents,git,figma,github,nextjs&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=sublime,webstorm,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=sublime,webstorm,postman,vscode&perline=7" />
     <br>
   </p>
 
@@ -33,10 +33,10 @@ At the same time, I upload videos on YouTube and teach students programming.
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IluF1g&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://github-readme-stats.vercel.app/api?username=IluF1gt&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+    
+
   </p>
 
