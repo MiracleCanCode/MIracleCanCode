@@ -24,7 +24,7 @@ At the same time, I upload videos on YouTube and teach students programming.
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,redux,tailwindcss,linux,styledcomponents,git&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=code,webstorm,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=sublimetext,webstorm,postman&perline=7" />
     <br>
   </p>
 
