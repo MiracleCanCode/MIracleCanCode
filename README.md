@@ -35,7 +35,7 @@ At the same time, I upload videos on YouTube and teach students programming.
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IluF1&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=IluF1t&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=IluF1&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     
 
   </p>
