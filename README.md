@@ -5,7 +5,7 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,py,javascript,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=typescript,py,javascript,html,css,go&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,redux,tailwind,linux,styledcomponents,git,figma,github,nextjs&perline=7" />
     <h3>Software</h3>
