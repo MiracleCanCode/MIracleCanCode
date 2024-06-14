@@ -1,4 +1,4 @@
-<h1 center>Hello everyone</h1>
+<h1>Hello everyone</h1>
 
 
   <summary><h2><b>📚 My stack</b></h2></summary>
@@ -8,7 +8,7 @@
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,redux,tailwind,linux,styledcomponents,git,figma,github,nextjs&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=sublime,webstorm,postman,vscode&perline=7" />
+    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
     <br>
   </p>
 
