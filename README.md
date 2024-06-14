@@ -8,7 +8,7 @@
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,redux,tailwind,linux,styledcomponents,git,figma,github,nextjs&perline=7" />
     <h3>Software</h3>
-    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+    <img src = "![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)"/>
     <br>
   </p>
 
