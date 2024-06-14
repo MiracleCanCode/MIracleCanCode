@@ -40,8 +40,7 @@
       <img src = "https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
       <img src = "https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
       
-    </p>
-    <br>
+ 
   </p>
 
 
