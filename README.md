@@ -5,9 +5,7 @@
   <p>
     <h3>Langs</h3>
     <p>
-      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-      <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
       <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
       <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -30,11 +28,4 @@
       <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src = "https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
     </p>
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IluF1&layout=compact&hide_border=true&bg_color=transparent" />
-   <img src="https://github-readme-stats.vercel.app/api?username=IluF1&count_private=true&show_icons=true&hide_border=true&bg_color=transparent" />
-    
-
-  </p>
 
