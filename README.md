@@ -1,5 +1,5 @@
 <br>
-<img src="https://i.pinimg.com/564x/db/be/e6/dbbee64ebc316962b445066bd1f644d2.jpg"/>
+<img src="https://i.pinimg.com/564x/db/be/e6/dbbee64ebc316962b445066bd1f644d2.jpg" width="100%"/>
 Frontend Developer from Russia 🧊
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
