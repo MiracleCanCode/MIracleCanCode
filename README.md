@@ -2,8 +2,6 @@
 
 # Hi, there. I am Ilya, Frontend-Developer from Russia 🧊
 
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
-
 <table width="100%">
         <td align="center" width="110" height="90">
         <a href="https://pastes.dev/a09fCpd0zT">
@@ -12,6 +10,9 @@
 <br>vscode config
 </td>
 </table>
+
+<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+
 
 > General
 
