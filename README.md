@@ -3,6 +3,7 @@
 # Hi, there. I am Ilya, Frontend-Developer from Russia 🧊
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+<a href="https://pastes.dev/a09fCpd0zT">Vs code config</a>
 
 > General
 
