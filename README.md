@@ -1,6 +1,6 @@
 <br>
 
-# Hi, there. I am Ilya, Frontend-Developer from Russia 🧊
+# Hi, there. I am Ilya, Golang-Developer from Russia 🧊
 
 <table width="100%">
         <td align="center" width="110" height="90">
