@@ -154,6 +154,18 @@
 
 <table width='100%'>
   <tr>
+          <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="Rabbitmq" />
+      </a>
+      <br>Rabbitmq
+    </td>
+          <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
