@@ -17,6 +17,12 @@
 > General
 
 <table width='100%'>
+        <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="36" height="36" alt="graphql" />
+      </a>
+      <br>javascript
+    </td>
   <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
