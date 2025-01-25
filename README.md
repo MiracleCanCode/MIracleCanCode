@@ -162,7 +162,7 @@
     </td>
           <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
