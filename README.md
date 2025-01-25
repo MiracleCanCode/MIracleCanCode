@@ -8,9 +8,9 @@
         <td align="center" width="110" height="90">
         <a href="https://pastes.dev/a09fCpd0zT">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode" />
+<br>vscode config
 </a>
 </td>
-<br>vscode config
 </table>
 
 
