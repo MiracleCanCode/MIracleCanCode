@@ -84,6 +84,18 @@ https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.s
       </a>
       <br>npm
     </td> 
+                <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="36" height="36" alt="grpc" />
+      </a>
+      <br>pnpm
+    </td>
+                   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="36" height="36" alt="grpc" />
+      </a>
+      <br>bun
+    </td>
         </tr>
 </table>
 
