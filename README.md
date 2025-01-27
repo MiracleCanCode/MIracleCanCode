@@ -3,7 +3,7 @@
 # Hi, there. I am Ilya, Golang-Developer from Russia 🧊
 
 > My configs
-
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg
 <table width="100%">
         <td align="center" width="110" height="90">
         <a href="https://pastes.dev/a09fCpd0zT">
@@ -48,18 +48,6 @@
       </a>
       <br>git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
@@ -79,6 +67,24 @@
       <br>graphql
     </td>
   </tr> 
+</table>
+
+> Package manager
+<table width='100%'>
+        <tr>
+                   <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td> 
+        </tr>
 </table>
 
 > Code quality
