@@ -219,6 +219,18 @@
       </a>
       <br>go
     </td>
+          <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Postgresql" />
+      </a>
+      <br>Postgresql
+    </td>
   </tr> 
 </table>
 
