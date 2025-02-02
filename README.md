@@ -42,7 +42,7 @@
       <br>javascript
     </td>
     <td align="center" width="110" height="90">
-      <a ">
+      <a >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" width="36" height="36" alt="go" />
       </a>
       <br>go
@@ -54,25 +54,25 @@
       <br>typescript
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
       <br>git
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
       <br>docker
     </td>
             <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="36" height="36" alt="graphql" />
       </a>
       <br>graphql
@@ -84,7 +84,7 @@
 <table width='100%'>
         <tr>
                    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
       </a>
       <br>yarn
