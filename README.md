@@ -1,6 +1,6 @@
 <br>
 
-# Hi, there. I am Ilya, Golang-Developer from Russia 
+# Hi, there. I am Ilya, Software-engineer from Russia 
 
 > My configs
 <table width="100%">
