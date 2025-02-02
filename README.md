@@ -10,6 +10,12 @@
 </a>
 <br>vscode config
 </td>
+        <td align="center" width="110" height="90">
+      <a href="https://www.npmjs.com/package/awesome-prettier">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>prettier config
+    </td>
 </table>
 
 
