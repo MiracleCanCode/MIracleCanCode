@@ -24,13 +24,13 @@
 <table width='100%'>
   <tr>
         <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="36" height="36" alt="grpc" />
       </a>
       <br>grpc
     </td>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="linux" />
       </a>
       <br>linux
